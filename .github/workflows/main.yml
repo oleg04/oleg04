@@ -1,10 +1,11 @@
+# This is a basic workflow to help you get started with Actions
 name: Metrics
 on:
   # Schedule updates (each hour)
   schedule: [{cron: "0 * * * *"}]
   # Lines below let you run workflow manually and on each commit (optional)
-  workflow_dispatch:
   push: {branches: ["master", "main"]}
+  workflow_dispatch:
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
@@ -14,3 +15,21 @@ jobs:
         with:
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
+          # GITHUB_TOKEN is a special auto-generated token restricted to current repository, which is used to push files in it
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          
+          # Options
+          user: oleg04
+          template: classic
+          base: ""
+          config_timezone: America/Toronto
+          plugin_introduction: yes
+          plugin_introduction_title: yes
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
+          plugin_languages: yes
+          plugin_languages_colors: github
+          plugin_languages_threshold: 1.5%
+          plugin_lines: yes
+          plugin_pagespeed: yes
+          plugin_pagespeed_url: "https://realbraingames.com/#/"
