@@ -30,8 +30,8 @@ Here are some ideas to get you started:
 
 Estudiando grado superior de DAM y de ASIR.
 * 💻 Trabajando para NTT DATA.
-* 😳 Más de 50H en cursos de Open Webinars
-* 😎 [Último proyecto](https://github.com/TeamBiscochito)
+* 😳 Más de 50H en cursos de Open Webinars.
+* 😎 [Último proyecto](https://github.com/TeamBiscochito).
 
 
 
@@ -60,3 +60,8 @@ Estudiando grado superior de DAM y de ASIR.
     }
 }
 ```
+
+<h2 align="center">Metrics</h2>
+<p align="center">
+  <img align="center" src="https://github.com/oleg04/oleg04/blob/main/github-metrics.svg"></img>
+</p>
