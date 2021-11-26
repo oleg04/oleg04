@@ -63,5 +63,5 @@ Estudiando grado superior de DAM y de ASIR.
 
 <h2 align="center">Metrics</h2>
 <p align="center">
-  <img align="center" src="https://github.com/oleg04/oleg04/blob/main/github-metrics.svg"></img>
+  <img src="https://github.com/oleg04/oleg04/blob/master/github-metrics.svg" alt="Métricas" width="100%">
 </p>
