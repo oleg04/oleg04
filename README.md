@@ -61,7 +61,13 @@ Estudiando grado superior de DAM y de ASIR.
 }
 ```
 
-<h2 align="center">Estadísticas</h2>
+<!--<h2 align="center">Estadísticas</h2>
 <p align="center">
   <img src="https://github.com/oleg04/oleg04/blob/master/github-metrics.svg" alt="Métricas" width="100%">
-</p>
+</p>-->
+
+<details>
+  <summary><b>🛠️Leanguajes y herramientas usadas</b></summary>
+  <br/>
+  <p align="center">En desarrollo</p>
+</details>
