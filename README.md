@@ -73,7 +73,7 @@ Estudiando grado superior de DAM y de ASIR.
 </details>
 
 <details>
-  <summary><b>Repositorios más activos<b/></summary>
+  <summary><b>Repositorios trabajados recientemente<b/></summary>
     <br/>
     <a href="https://github.com/TeamBiscochito/proyectofinal">
       <img align="left" width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=TeamBiscochito&repo=proyectofinal" />
