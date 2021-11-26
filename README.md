@@ -26,13 +26,13 @@ Here are some ideas to get you started:
   <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%23F78602&size=22&center=true&vCenter=true&width=600&height=60&lines=Actualmente+sigo+estudiando;Programando+en+Kotlin+y+java" /></a>
 </p>
 
-<img align="right" width="40%" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+  <!--<img align="right" width="40%" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />-->
+  <img align="right" width="45%" alt="Estadísticas" src="https://github-readme-stats.vercel.app/api?username=oleg04&show_icons=true&theme=gruvbox&locale=en&show_owner=true&count_private=true"/>
 
 Estudiando grado superior de DAM y de ASIR.
 * 💻 Trabajando para NTT DATA.
 * 😳 Más de 50H en cursos de Open Webinars.
 * 😎 [Último proyecto](https://github.com/TeamBiscochito).
-
 
 
 ### Setup:
@@ -67,7 +67,21 @@ Estudiando grado superior de DAM y de ASIR.
 </p>-->
 
 <details>
-  <summary><b>🛠️Leanguajes y herramientas usadas</b></summary>
+  <summary><b>Leanguajes y herramientas usadas</b></summary>
   <br/>
   <p align="center">En desarrollo</p>
+</details>
+
+<details>
+  <summary><b>Repositorios más activos<b/></summary>
+    <br/>
+    <a href="https://github.com/TeamBiscochito/proyectofinal">
+      <img align="left" width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=TeamBiscochito&repo=proyectofinal" />
+    </a>
+    <a href="https://github.com/TeamBiscochito/proyectofinal-laravel">
+      <img align="left" width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=TeamBiscochito&repo=proyectofinal-laravel" />
+    </a>
+    <a href="https://github.com/TeamBiscochito/animales-salvajes-web">
+      <img align="left" width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=TeamBiscochito&repo=animales-salvajes-web" />
+    </a>
 </details>
