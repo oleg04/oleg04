@@ -1,5 +1,5 @@
 # This is a basic workflow to help you get started with Actions
-name: Metrics
+name: Métricas
 on:
   # Schedule updates (each hour)
   schedule: [{cron: "0 * * * *"}]
@@ -19,10 +19,10 @@ jobs:
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           
           # Options
-          user: GrantBGreat
+          user: oleg04
           template: classic
           base: ""
-          config_timezone: America/Toronto
+          config_timezone: Europe/Madrid
           plugin_introduction: yes
           plugin_introduction_title: yes
           plugin_isocalendar: yes
@@ -31,5 +31,4 @@ jobs:
           plugin_languages_colors: github
           plugin_languages_threshold: 1.5%
           plugin_lines: yes
-          plugin_pagespeed: yes
-          plugin_pagespeed_url: "https://realbraingames.com/#/"
+          plugin_pagespeed: no
