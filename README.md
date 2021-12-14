@@ -30,7 +30,7 @@ Here are some ideas to get you started:
   <img align="right" width="45%" alt="Estadísticas" src="https://github-readme-stats.vercel.app/api?username=oleg04&show_icons=true&theme=gruvbox&locale=en&show_owner=true&count_private=true"/>
 
 Estudiando grado superior de DAM y de ASIR.
-* 💻 Trabajando para NTT DATA.
+* 💻 Trabajando en NTT DATA.
 * 😳 Más de 50H en cursos de Open Webinars.
 * 😎 [Último proyecto](https://github.com/TeamBiscochito).
 
