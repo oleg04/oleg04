@@ -33,7 +33,7 @@ Estudiando grado superior de DAM y de ASIR.
 * 💻 Trabajando en NTT DATA.
 * 😳 Más de 50H en cursos de Open Webinars.
 * 😎 [Último proyecto](https://github.com/TeamBiscochito).
-
+* 👁 ![Visitas](https://komarev.com/ghpvc/?username=Oleg37)
 
 ### Setup:
 ```js
