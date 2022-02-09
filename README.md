@@ -31,33 +31,36 @@ Here are some ideas to get you started:
 
 Estudiando grado superior de DAM y de ASIR.
 * 💻 Trabajando en NTT DATA.
-* 😳 Más de 50H en cursos de Open Webinars.
+* 😳 Más de 50H en diferentes cursos.
 * 😎 [Último proyecto](https://github.com/TeamBiscochito).
 * 👁 ![Visitas](https://komarev.com/ghpvc/?username=Oleg04)
 
 ### Setup:
-```js
+```json
 {
-  ordenadores: {
-    sobremesa: {
-      mainboard: "Z370 Gaming Plus MSI",
-      cpu: "Intel i7 8700K (Overclock 4,8GHz Todos los núcleos)",
-      ram: "DDR4 32GB (XMP 3200MHz, 16GB Corsair y 16GB G.Skill)",
-      gpu: "GTX 1080 MSI (Overclock 2000MHz - 2050MHz)",
-      hdd: "2 de 1TB a 7200RPM",
-      ssd: "NVMe 256GB, NVMe 1TB, SSD 128GB",
-      cooling: "CPU - Custom (FAN), GPU - Custom (FAN)",
-      os: "Windows 10"
-    },
-    laptop: {
-      model: "MSI GE60 2PC (Apache)-214XES",
-      cpu: "Intel i5 4200H",
-      ram: "8GB",
-      gpu: "GTX 850M,
-      hdd: "500GB a 7200 RPM",
-      ssd: "M.2 250GB",
-      dualboot: ["ParrotOS", "Windows 10"]
-    }
+  "computers":{
+    "main":[
+      {
+        "mainboard":"Z370 Gaming Plus MSI",
+        "cpu":"Intel i7 8700K (Overclock 4,8GHz All cores)",
+        "ram":"DDR4 32GB (XMP 3200MHz, 16GB Corsair & 16GB G.Skill)",
+        "gpu":"GTX 1080 MSI (Overclock 2000MHz - 2050MHz)",
+        "hdd":"2 de 1TB a 7200RPM",
+        "ssd":"NVMe 256GB, NVMe 1TB, SSD 128GB",
+        "cooling":"CPU - Custom (FAN), GPU - Custom (FAN)"
+      }
+    ],
+    "laptop":[
+      {
+        "model":"MSI GE60 2PC (Apache)-214XES",
+        "cpu":"Intel i5 4200H",
+        "ram":"8GB",
+        "gpu":"GTX 850M",
+        "hdd":"500GB & 7200 RPM",
+        "ssd":"M.2 250GB"
+      }
+    ]
+  }
 }
 ```
 
