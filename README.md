@@ -33,7 +33,7 @@ Estudiando grado superior de DAM y de ASIR.
 * 💻 Trabajando en NTT DATA.
 * 😳 Más de 50H en diferentes cursos.
 * 😎 [Último proyecto](https://github.com/TeamBiscochito).
-* 🔨 [Perfil de Gitlab](https://gitlab.com/oleg0)
+* 🔨 [Perfil de Gitlab](https://gitlab.com/oleg0).
 * 👁 ![Visitas](https://komarev.com/ghpvc/?username=Oleg04)
 
 ### Setup:
